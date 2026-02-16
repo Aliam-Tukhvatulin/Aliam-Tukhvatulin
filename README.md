@@ -4,16 +4,6 @@
 
 ---
 
-## 📬 Контакты
-
-- **Email:** [alyam.po4ta@gmail.com](mailto:alyam.po4ta@gmail.com)
-- **Телефон:** +7 (917) 951-74-64
-- **Telegram:** [@ALT_NU](https://t.me/ALT_NU)
-- **Резюме:** [hh.ru](https://hh.ru/resume/4c223bd4ff101265df0039ed1f4e465a4b7044)
-- **GitHub:** [github.com/Aliam-Tukhvatulin](https://github.com/Aliam-Tukhvatulin/)
-
----
-
 ## 🧰 Навыки и инструменты
 
 | Категория               | Технологии и нотации                                                                                 |
@@ -26,6 +16,16 @@
 | **Базы данных**         | Нормализация (3НФ), логические модели, MongoDB, MySQL, PostgreSQL                                   |
 | **Инструменты**         | Miro, draw.io / diagrams.net, Google Docs, Swagger Editor, Git, GitHub, Visio                       |
 | **Soft Skills**         | Agile / Scrum, командная работа, ретроспективы, презентация заказчику                               |
+
+---
+
+## 📬 Контакты
+
+- **Email:** [alyam.po4ta@gmail.com](mailto:alyam.po4ta@gmail.com)
+- **Телефон:** +7 (917) 951-74-64
+- **Telegram:** [@ALT_NU](https://t.me/ALT_NU)
+- **Резюме:** [hh.ru](https://hh.ru/resume/4c223bd4ff101265df0039ed1f4e465a4b7044)
+- **GitHub:** [github.com/Aliam-Tukhvatulin](https://github.com/Aliam-Tukhvatulin/)
 
 ---
 
