@@ -14,7 +14,7 @@
 | **Документирование**    | SRS, словарь данных, ПМИ, тикеты (постановка задач)                                                 |
 | **Прототипирование**    | Figma (low‑fi / hi‑fi, интерактивные прототипы), дизайн‑системы                                     |
 | **Базы данных**         | Нормализация (3НФ), логические модели, MongoDB, MySQL, PostgreSQL                                   |
-| **Инструменты**         | Miro, draw.io / diagrams.net, Google Docs, Swagger Editor, Git                                      |
+| **Инструменты**         | Miro, draw.io / diagrams.net, Google Docs, Swagger Editor, Git, GitHub, Visio                       |
 | **Soft Skills**         | Agile / Scrum, командная работа, ретроспективы, презентация заказчику                               |
 
 ---
