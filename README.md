@@ -34,11 +34,11 @@
 
 ## 📬 Контакты
 
-- **Email:** [ivan.ivanov@example.com](mailto:ivan.ivanov@example.com)
-- **Телефон:** +7 (999) 123-45-67
-- **Telegram:** [@ivan_analyst](https://t.me/ivan_analyst)
-- **Резюме:** [ссылка на резюме (hh.ru / Google Docs)]
-- **GitHub:** [github.com/ivan-analyst](https://github.com/ivan-analyst)
+- **Email:** [alyam.po4ta@gmail.com](mailto:alyam.po4ta@gmail.com)
+- **Телефон:** +7 (917) 951-74-64
+- **Telegram:** [@ALT_NU](https://t.me/ALT_NU)
+- **Резюме:** [hh.ru](https://hh.ru/resume/4c223bd4ff101265df0039ed1f4e465a4b7044)
+- **GitHub:** [github.com/Aliam-Tukhvatulin](https://github.com/Aliam-Tukhvatulin/)
 
 ---
 
