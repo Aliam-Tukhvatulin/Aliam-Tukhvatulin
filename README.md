@@ -43,4 +43,15 @@
 
 ---
 
+## 🎓 Сертификаты и курсы
+
+| Курс | Организация | Год | Сертификат |
+|------|-------------|-----|------------|
+| Системный аналитик. Расширенный | Яндекс Практикум | 2025 | [📄 PDF](./certificates/Yandex_Praktikum_SA.pdf) |
+| Бизнес-аналитик в IT | Stepik.org | 2025 | [📄 PDF](./certificates/Stepik_BA.pdf) |
+| SQL для анализа данных | Stepik.org | 2025 | [📄 PDF](./certificates/Stepik_SQL.pdf) |
+| Python для начинающих | Stepik.org | 2025 | [📄 PDF](./certificates/Stepik_Python.pdf) 
+
+---
+
 © 2026 · Портфолио Тухватулин Алям
