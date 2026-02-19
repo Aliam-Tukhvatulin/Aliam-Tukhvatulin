@@ -48,9 +48,9 @@
 | Курс | Организация | Год | Сертификат |
 |------|-------------|-----|------------|
 | Системный аналитик. Расширенный | Яндекс Практикум | 2025 | [📄 PDF](https://github.com/Aliam-Tukhvatulin/Aliam-Tukhvatulin/blob/2ef5fa011d02029a8168d7cd9b9ac43a803a1a9a/certificates/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%A2%D1%83%D1%85%D0%B2%D0%B0%D1%82%D1%83%D0%BB%D0%B8%D0%BD_2025-12572-001_.pdf) |
-| Бизнес-аналитик в IT | Stepik.org | 2025 | [📄 PDF](https://github.com/Aliam-Tukhvatulin/Aliam-Tukhvatulin/blob/4d33a04e0321b3ce669ee936c489036455a05fc9/certificates/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B2%20IT%20%D1%81%20%D0%9D%D1%83%D0%BB%D1%8F%20%D0%B4%D0%BE%20%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.png) |
-| Python для начинающих  | Stepik.org | 2025 | [📄 PDF](https://github.com/Aliam-Tukhvatulin/Aliam-Tukhvatulin/blob/2ef5fa011d02029a8168d7cd9b9ac43a803a1a9a/certificates/%D0%9F%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20Python.png) |
-| Python. Индикурс | Stepik.org | 2025 | [📄 PDF](https://github.com/Aliam-Tukhvatulin/Aliam-Tukhvatulin/blob/2ef5fa011d02029a8168d7cd9b9ac43a803a1a9a/certificates/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D1%83%D1%80%D1%81%20Python.png) |
+| Бизнес-аналитик в IT | Stepik.org | 2025 | [📄 PNG](https://github.com/Aliam-Tukhvatulin/Aliam-Tukhvatulin/blob/4d33a04e0321b3ce669ee936c489036455a05fc9/certificates/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B2%20IT%20%D1%81%20%D0%9D%D1%83%D0%BB%D1%8F%20%D0%B4%D0%BE%20%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.png) |
+| Python для начинающих  | Stepik.org | 2025 | [📄 PNG](https://github.com/Aliam-Tukhvatulin/Aliam-Tukhvatulin/blob/2ef5fa011d02029a8168d7cd9b9ac43a803a1a9a/certificates/%D0%9F%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20Python.png) |
+| Python. Индикурс | Stepik.org | 2025 | [📄 PNG](https://github.com/Aliam-Tukhvatulin/Aliam-Tukhvatulin/blob/2ef5fa011d02029a8168d7cd9b9ac43a803a1a9a/certificates/%D0%98%D0%BD%D0%B4%D0%B8%D0%BA%D1%83%D1%80%D1%81%20Python.png) |
 
 ---
 
